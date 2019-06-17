@@ -10,4 +10,4 @@ I would like to view a list of bookmarked websites.
 
 ## Domain Model
 
-[Domain Model](https://raw.githubusercontent.com/makersacademy/course/master/bookmark_manager/images/bookmark_manager_1.png?token=ALXDTEYKUG4UUIPU2ZPFHYK5CDLHY "Domain Model - User Story 1")
+![alt text](https://raw.githubusercontent.com/makersacademy/course/master/bookmark_manager/images/bookmark_manager_1.png?token=ALXDTEYKUG4UUIPU2ZPFHYK5CDLHY "Domain Model")
